@@ -1,0 +1,40 @@
+﻿  ConexionBD.cpp
+  CRUD Estudiantes.cpp
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\ConexionBD.h(4,17): error C2011: 'ConexionBD': nueva definición del tipo 'class'
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\ConexionBD.h(4,7):
+  vea la declaración de 'ConexionBD'
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(34,14): error C2079: 'cn' utiliza class 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(34,29): error C2027: uso del tipo 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\ConexionBD.h(4,7):
+  vea la declaración de 'ConexionBD'
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(57,14): error C2079: 'cn' utiliza class 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(57,29): error C2027: uso del tipo 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\ConexionBD.h(4,7):
+  vea la declaración de 'ConexionBD'
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(87,14): error C2079: 'cn' utiliza class 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(87,29): error C2027: uso del tipo 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\ConexionBD.h(4,7):
+  vea la declaración de 'ConexionBD'
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(109,14): error C2079: 'cn' utiliza class 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  
+C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\Estudiantes.h(109,29): error C2027: uso del tipo 'ConexionBD' sin definir
+  (compilando archivo de origen "CRUD%20Estudiantes.cpp")
+  C:\Users\Cesar\Desktop\C++\CRUD Estudiantes\CRUD Estudiantes\ConexionBD.h(4,7):
+  vea la declaración de 'ConexionBD'
+  
+  Estudiantes.cpp
